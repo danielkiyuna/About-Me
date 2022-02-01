@@ -1,0 +1,18 @@
+body {
+    font-family: "Open Sans";
+    background-color: black;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 300;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    width: 100%
+}
